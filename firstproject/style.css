@@ -6,8 +6,11 @@
 
 
 */
+* {
+    color: white;
+}
 body {
-    background-image: url('photos/sky_clouds_dusk.jpg');
+    background-color: grey;
 }
 
 header {
