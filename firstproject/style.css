@@ -105,7 +105,9 @@ header {
 .margin_bot {
     margin-bottom: 200px;
 }
-
+.margin_bot1 {
+    margin-bottom: 75px;
+}
 .main1_h3 {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -115,4 +117,11 @@ header {
 
 .link1 {
     text-decoration: none;
+}
+
+.video_mem {
+    display: block;
+    margin-left: 55px;
+    margin-right: auto;
+    width: 50%;
 }
