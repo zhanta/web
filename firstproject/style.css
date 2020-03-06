@@ -10,7 +10,8 @@
     color: white;
 }
 body {
-    background-color: grey;
+     /*background-color: grey; */
+    background-image: url("photos/sky_clouds_dusk.jpg");
 }
 
 header {
